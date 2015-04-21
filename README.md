@@ -7,7 +7,7 @@ Implementation of algorithms for mining frequent sequences / sequential patterns
 
 [SPAM - Sequential PAttern Mining using A Bitmap Representation] (http://www.philippe-fournier-viger.com/spmf/SPAM.pdf)
 
-[LAPIN-SPAM] (http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.105.139&rep=rep1&type=pdf)
+[LAPIN-SPAM - LAst Position INduction Sequential PAttern Mining] (http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.105.139&rep=rep1&type=pdf)
 
 [BIDE - BI-Directional Extension pattern closure checking] (http://web.engr.illinois.edu/~hanj/pdf/icde04_bide.pdf)
 
